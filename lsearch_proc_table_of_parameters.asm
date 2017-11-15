@@ -85,7 +85,7 @@ CODE SEGMENT
         ; then exit
         hlt
 
-        ; far procedure of linear search
+        ; procedure of linear search
         Linear_Search PROC NEAR
             
             ; push current registers to stack
